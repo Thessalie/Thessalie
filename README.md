@@ -1,4 +1,4 @@
-### <center>Hi there 👋 I'm Alice Lafon</center>
+### Hi there 👋 I'm Alice Lafon
 **I'm a ✨ Junior Developer Data ✨**
 
 - 🔭 I’m currently working on Data Engineering
