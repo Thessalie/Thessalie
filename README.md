@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Alice Lafon
-
 **I am a ✨ Data Junior ✨ Developer.**
 
 - 🔭 I’m currently working on Data Engineering
